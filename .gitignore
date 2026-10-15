@@ -1,0 +1,16 @@
+
+# React
+student-frontend/node_modules/
+student-frontend/build/
+
+# Java / Spring Boot
+backend/target/
+*.class
+*.log
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+backend/src/main/resources/application.properties
